@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^11.7.0",
+    "react-icons": "^4.8.0"
+  }
+}
